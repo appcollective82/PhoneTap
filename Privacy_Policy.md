@@ -1,4 +1,4 @@
-Privacy Policy for FaceTap
+Privacy Policy for PhoneTap
 
 Privacy Policy Last updated: May 18, 2025
 
@@ -14,9 +14,9 @@ Account means a unique account created for You to access our Service or parts of
 
 Affiliate means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 
-Application refers to FaceTap, the software program provided by the Company.
+Application refers to PhoneTap, the software program provided by the Company.
 
-Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to FaceTap.
+Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to PhoneTap.
 
 Country refers to: Belgium
 
@@ -104,7 +104,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 Contact Us If you have any questions about this Privacy Policy, You can contact us:
 
-By visiting this page on our website: https://appcollective82.wordpress.com/Privacy Policy for FaceTap
+By visiting this page on our website: https://appcollective82.wordpress.com/Privacy Policy for PhoneTap
 
 Privacy Policy Last updated: May 18, 2025
 
@@ -120,9 +120,9 @@ Account means a unique account created for You to access our Service or parts of
 
 Affiliate means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 
-Application refers to FaceTap, the software program provided by the Company.
+Application refers to PhoneTap, the software program provided by the Company.
 
-Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to FaceTap.
+Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to PhoneTap.
 
 Country refers to: Belgium
 
