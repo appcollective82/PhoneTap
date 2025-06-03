@@ -211,3 +211,24 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 Contact Us If you have any questions about this Privacy Policy, You can contact us:
 
 By visiting this page on our website: https://appcollective82.wordpress.com/
+
+***
+☎️ CallTap – Privacy Policy
+Last updated: June 3, 2025
+
+CallTap respects your privacy. We do not collect or share any personal data.
+
+Contact Access
+You may optionally add a contact with a photo and phone number.
+This information remains only on your device and is never sent to us or any third party.
+It is used to let you start a phone call with one tap.
+
+No ads
+
+No analytics
+
+No tracking
+
+No data sharing
+
+Fully private. Fully local.
